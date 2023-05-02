@@ -1,0 +1,71 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link rel="stylesheet" href="/style.css" />
+    <title>IT – Front end Developer</title>
+  </head>
+  <body>
+    <header class="header">
+      <h1>IT – Front end Developer</h1>
+    </header>
+    </div>
+    <div class="wrapper">
+      <div class="content">
+        <h1 class="section-one">why you want to study this course</h1>
+        
+        <h6>
+          Jag vill studera den här kursen som nybörjare i webbutveckling för att jag är intresserad av att lära mig hur man skapar dynamiska och responsiva webbplatser. Genom att ta den här kursen kommer jag att få en grundläggande förståelse för HTML, CSS och JavaScript, som är de viktigaste verktygen för att bygga en webbplats.
+
+        Jag tror också att webbutveckling är en mycket efterfrågad färdighet på arbetsmarknaden, och jag ser fram emot att förbättra mina chanser att få en spännande karriär inom detta område. Dessutom ser jag fram emot att utveckla min kreativitet genom att skapa webbplatser som är både estetiskt tilltalande och användarvänliga.
+
+        Jag är ivrig att lära mig och förbättra mina färdigheter genom praktiskt arbete och genom att samarbeta med andra studenter. Jag tror att den här kursen kommer att ge mig en stark grund att bygga vidare på i min fortsatta utbildning inom webbutveckling.
+
+        Sammanfattningsvis, jag vill studera den här kursen som nybörjare i webbutveckling för att lära mig grundläggande principer och tekniker, förbättra mina karriärmöjligheter och utveckla min kreativitet genom att skapa estetiskt tilltalande och användarvänliga webbplatser.
+        </h6>
+      </div>
+      <div class="content">
+        <h1 class="section-tow">why you think you would be a good future developer</h1>
+        <h6>
+          Jag tror att jag skulle vara en bra framtida utvecklare inom webbutveckling eftersom jag är en kreativ person som alltid har varit fascinerad av teknologi och design. Jag är också en självlärd person som gillar att lära mig nya saker och utmana mig själv.
+
+          Jag tror att min kreativitet kommer att hjälpa mig att skapa estetiskt tilltalande webbplatser som också är användarvänliga. Jag har alltid varit uppmärksam på detaljer och jag tror att detta kommer att hjälpa mig att skapa högkvalitativa webbplatser.
+
+          Jag är också envis och uthållig, vilket jag tror är viktiga egenskaper för att vara en framgångsrik utvecklare. Att arbeta med webbutveckling kräver tålamod och en förmåga att lösa problem, och jag tror att jag har dessa egenskaper.
+
+          Jag är också mycket intresserad av webbutveckling och jag är villig att lägga ner den tid och ansträngning som krävs för att lära mig och förbättra mina färdigheter. Jag tror att min självlärda bakgrund kommer att hjälpa mig att vara framgångsrik i denna utbildning och som utvecklare i framtiden.
+
+         Sammanfattningsvis, jag tror att jag skulle vara en bra framtida utvecklare inom webbutveckling på grund av min kreativitet, uppmärksamhet på detaljer, envishet, uthållighet, intresse och min självlärda bakgrund.
+        </h6>
+      </div>
+      <div class="content">
+        <h1 class="section-three">personal letter</h1>
+        
+        <h6>
+          Hej!
+          Jag heter Edris kohestani, bor i Göteborg och är 24 år gammal.
+          <br>
+          Jag skriver till er för att uttrycka mitt stora intresse för att studera webbutveckling vid er skola. Efter att ha avslutat mitt gymnasieutbildning inom el- och energiprogrammet, känner jag att jag har upptäckt min passion för programmering och jag tror att det finns en spännande framtid för mig inom webbutvecklingsbranschen.
+
+          Det som lockar mig till webbutveckling är den snabba tekniska utvecklingen och möjligheten att vara kreativ samtidigt som jag arbetar med något tekniskt. Jag har alltid haft en fascination för teknik och hur saker fungerar, men det var först när jag började utforska programmering som jag verkligen fann min passion. Att kunna skapa något från grunden med koden och se det komma till liv på en skärm är en fantastisk känsla.
+
+          Jag har redan börjat lära mig grunderna i programmering och webbutveckling, och jag tror att en utbildning vid er skola skulle hjälpa mig att ta mina färdigheter till nästa nivå. Jag är särskilt intresserad av att lära mig de senaste teknologierna inom webbutveckling, såsom React, Angular och Vue.js. Jag har också ett stort intresse för webbdesign och användbarhet, och jag vill lära mig hur man skapar webbsidor som är både snygga och användarvänliga.
+
+          Jag tror att min tekniska förståelse från mitt gymnasieprogram kommer att vara till stor nytta när jag studerar webbutveckling. Jag har en djup förståelse för elektricitet och teknik, vilket ger mig en bra grund för att förstå de tekniska aspekterna av webbutveckling. Dessutom har jag arbetat inom flera olika branscher och jag har utvecklat goda kommunikations- och samarbetsförmågor. Jag tror att dessa färdigheter kommer att vara värdefulla när jag arbetar i team med andra webbutvecklare och designers.
+
+          Jag har sett att er skola har en utmärkt lärarkår med erfarna och kunniga lärare inom webbutveckling. Detta är en av anledningarna till att jag söker mig till er skola. Jag tror att jag kommer att lära mig mycket från era lärare och jag ser fram emot att delta i era projekt och aktiviteter.
+
+          Jag är övertygad om att webbutveckling är en spännande karriärmöjlighet och jag tror att jag har vad som krävs för att bli en framgångsrik webbutvecklare. Jag är villig att arbeta hårt och lägga ner den tid och ansträngning som krävs för att lyckas. Jag är redo att ta på mig utmaningarna och lära mig allt jag behöver för att lyckas i branschen.
+
+          Tack för att ni tar er tid att läsa mitt brev. Jag hoppas att min passion och intresse för webbutveckling har kommit fram i mina ord och
+        </h6>
+      </div>
+    </div>
+    <footer>
+      <p>Copyright Edris.K 2023</p>
+    </footer>
+    
+  </body>
+</html>
